@@ -29,7 +29,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define ROK		12
+#define ROK	12
 #define TYDEN	7
 
 #define OBR_X	80
